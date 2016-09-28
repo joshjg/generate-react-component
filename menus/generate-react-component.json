@@ -2,11 +2,11 @@
   "context-menu": {
     ".directory .header": [
       {
-        "label": "Generate new component (component)",
+        "label": "Generate new component",
         "command": "generate-react-component:component"
       },
       {
-        "label": "Generate new component (container)",
+        "label": "Generate new container",
         "command": "generate-react-component:container"
       }
     ]
