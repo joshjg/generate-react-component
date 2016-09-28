@@ -1,0 +1,6 @@
+{
+  ".generate-react-component": {
+    "escape": "core:cancel",
+    "enter": "core:confirm"
+  }
+}

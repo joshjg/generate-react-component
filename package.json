@@ -1,0 +1,30 @@
+{
+  "name": "generate-react-component",
+  "main": "./lib/generate-react-component",
+  "version": "0.0.0",
+  "description": "Generate component structure from easily customizable templates",
+  "keywords": [
+    "react",
+    "component",
+    "container",
+    "scaffold",
+    "boilerplate",
+    "structure",
+    "template"
+  ],
+  "activationCommands": {
+    "atom-workspace": [
+      "generate-react-component:component",
+      "generate-react-component:container"
+    ]
+  },
+  "repository": "https://github.com/joshjg/generate-react-component",
+  "author": "Joshua Goldman",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+    "fs-plus": "^2.9.2"
+  }
+}
