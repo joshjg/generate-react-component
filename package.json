@@ -1,7 +1,7 @@
 {
   "name": "generate-react-component",
   "main": "./lib/generate-react-component",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Generate component structure from easily customizable templates",
   "keywords": [
     "react",
