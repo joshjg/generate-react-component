@@ -1,6 +1,6 @@
-# Generate-React-Component
+# generate-react-component
 
-Simple, template-based React component and Redux container generator for Atom's Tree View.
+Simple, template-based React component and Redux container generator for Atom's Tree View. [VS Code version here.](https://github.com/joshjg/vscode-generate-react-component)
 
 ## Installation
 `apm install generate-react-component`
@@ -21,9 +21,9 @@ However, this package does not force these principles. You can easily customize 
 
 ## Customization
 The component and container templates are completely customizable. You can add additional boolean options to the generator panel from the package's settings. One option is included by default: ``class`` determines whether to generate a class-based component instead of a functional component.
-### Edit the default templates
-Click on View Code in the package settings, and edit the contents of the `component_template` and `container_template` folders to reflect your preferences. Feel free to remove or create new files.
-### Enable user-made templates
+### View the default templates
+Click on View Code in the package settings, and see the contents of the `component_template` and `container_template` folders. It is recommended that you do not modify the default templates directly, as updates will overwrite your changes.
+### Enable custom templates
 In the package settings, enter absolute paths to your own template folders. This will override the defaults.
 ### Syntax
 Template syntax is very simple:

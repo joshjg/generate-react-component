@@ -1,3 +1,10 @@
+# Release Notes
+
+## 0.2.0
+* Clarified README
+* Code style tweaks
+* Clean up event listeners
+
 ## 0.1.2
 * Fixed missing export in component template
 * Changed react-css-modules variable name in component template to avoid linting errors
