@@ -1,4 +1,5 @@
 # generate-react-component
+# NOT MAINTAINED. I suggest using a more general-purpose code generator/scaffolder such as [hygen](https://github.com/jondot/hygen)
 
 Simple, template-based React component and Redux container generator for Atom's Tree View. [VS Code version here.](https://github.com/joshjg/vscode-generate-react-component)
 
